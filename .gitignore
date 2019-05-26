@@ -1,0 +1,5 @@
+CareSymbols/
+Test/
+Train/
+*.csv
+.ipynb_checkpoints/
